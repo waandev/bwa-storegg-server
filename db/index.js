@@ -11,3 +11,4 @@ mongoose.connect(urlDb, {
 const db = mongoose.connection;
 
 module.exports = db;
+
